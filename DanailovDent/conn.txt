@@ -1,0 +1,5 @@
+﻿SERVER=localhost
+PORT=3306
+USERNAME=root
+PASSWORD=123
+DATABASE=danailov
